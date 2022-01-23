@@ -9,11 +9,15 @@ Alternate Hypothesis - The null hypothesis is the amount of bluecars taken on Tu
 
 
 
+
 By
 {Victoria Maina}
 
 
+
 Setup/Installation Requirements
+
+
 Use Google Colab for data preparation and analysis.
 
 Import pandas and Numpy libraries for data manipulation.
@@ -24,8 +28,12 @@ Loading datasets and previewing datasets.
 
 Cleaning data; renaming values in columns for uniformity, and dropping insignificant columns.
 
+
+
 Usage
 This project demonstrates how various data analysis and statistical tecniques that can be used to perform hypothesis testing and can be replicated on any data science project.
+
+
 
 Technologies Used
 {Python Programming}
